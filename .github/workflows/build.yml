@@ -1,6 +1,6 @@
 name: Trigger backend builds
 
-on: [push]
+# on: [push]
 
 jobs:
   build:
